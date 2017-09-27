@@ -22,6 +22,8 @@ Blynk.begin(auth, SSID, pass, IPAddress(XXX,XXX,XXX,XXX));
 ```
 email : admin@blynk.cc
 password : admin
+IP address : IPv4 address
+Port : 8443
 ```
 # Ex Arduino
 ```
